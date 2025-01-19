@@ -1,0 +1,4 @@
+numpy==<latest-stable-version>
+pandas==<latest-stable-version>
+tensorflow==<latest-stable-version>
+scikit-learn==<latest-stable-version>
